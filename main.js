@@ -70,4 +70,8 @@ function calculate(){
   }
 }
 
+function reset(){
+    
+}
+
 
