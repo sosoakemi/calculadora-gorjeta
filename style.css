@@ -99,7 +99,7 @@ main{
          }
 
           .button-selected{
-            background: ;
+            background:var(--topaz);
           }
         input{
             width: 100%;
